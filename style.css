@@ -17,6 +17,10 @@ h2{
   text-decoration: overline;
   text-decoration-style: dashed;
 }
+h4{
+  font-size: 150%;
+  font-family: "Courier New";
+}
 img{
   width: 500px;
   border-style: ridge;
