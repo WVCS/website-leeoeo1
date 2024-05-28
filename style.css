@@ -1,3 +1,43 @@
-body {
-
+body{
+  background-color: #CEBBC9;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 3px;
+  color: #4C243B;
+  font-family: "Courier New";
+  border-style: ridge;
+  border-color: #403D58;
+  background-color: #9e76ad;
+}
+h2{
+  font-size: 270%;
+  font-family: "Courier New";
+  color: #4C243B;
+  text-decoration: overline;
+  text-decoration-style: dashed;
+}
+img{
+  width: 500px;
+  border-style: ridge;
+  border-color: #403D58;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  color: #CEBBC9;
+  background-color: #77567A;
+  font-family: "Courier New";
+  padding: 30px;
+  border: solid;
+  
+}
+li a:hover{
+  background-color: #684b6b;
 }
